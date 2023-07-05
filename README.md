@@ -23,7 +23,14 @@ In addition to the above features, this project consists of two parts:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+The Website : 
+
+![Capture d'écran 2023-07-05 173721](https://github.com/SifEddine05/dzExploire_Project/assets/77940258/cecb3cee-1cb5-4970-9514-fb4ba4d93cfd)
+
+The Dashboard : 
+
+![1111](https://github.com/SifEddine05/dzExploire_Project/assets/77940258/9d68fd4b-bec7-4b12-9eae-a9ee4ca240f4)
+
 
 
 ## Demo
